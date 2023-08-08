@@ -1,0 +1,9 @@
+## Title: Blastbones Noise Maker
+## APIVersion: 101038
+## Description: Makes a noise when Blastbones go boom.
+## Version: 1.0.0
+## AddOnVersion: 10000
+## Author: |cFFCCCC@g4rr3t|r (NA)
+
+BlastbonesNoiseMaker.lua
+
